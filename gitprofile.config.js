@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: '김정욱',
+    linkedin: '정욱-김-17a3b5298',
     twitter: '',
     mastodon: '',
     facebook: '',
