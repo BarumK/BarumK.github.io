@@ -11,11 +11,11 @@ const config = {
     },
   },
   social: {
-    linkedin: '',
+    linkedin: '김정욱',
     twitter: '',
     mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: 'jwook_kimmm',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -74,7 +74,7 @@ const config = {
   ], */
   education: [
     {
-      institution: '성균관대학교',
+      institution: '성균관대학교 글로벌융합학부 인공지능융합전공 & 소프트웨어학과(복수전공)',
       degree: 'Undergraduate Student',
       from: '2020',
       to: 'Present',
@@ -85,21 +85,27 @@ const config = {
       from: '2017',
       to: '2019',
     },
+    {
+      institution: '신도림중학교',
+      degree: 'Middle School',
+      from: '2014',
+      to: '2016',
+    },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: '수강한 과목',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        '성균관대학교에서 수강한 인공지능융합전공 및 소프트웨어학과 강의들',
+      imageUrl: 'https://www.skku.edu/_res/skku/img/skku_s.png',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'To be continued..',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '추가로 진행된 프로젝트들 추후 업데이트 예정입니다.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
