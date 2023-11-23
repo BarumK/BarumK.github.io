@@ -100,28 +100,14 @@ const config = {
       description:
         '성균관대학교에서 수강한 인공지능융합전공 및 소프트웨어학과 강의들',
       imageUrl: 'https://www.skku.edu/_res/skku/img/skku_s.png',
-      link: 'BarumK.github.io/lectures.pdf',
+      link: 'https://drive.google.com/file/d/1QHm9JLV8lnPJ3tj4A22aiJ1Ztptw12Gv/view?usp=sharing',
     },
     {
       title: 'DiSuO',
       description:
         '인공지능을 활용한 애플리케이션/웹 개발 대회 우승 작품 DiSuo',
       imageUrl: 'https://www.skku.edu/_res/skku/img/skku_s.png',
-      link: 'BarumK.github.io/DiSuo.pptx',
-    },
-    {
-      title: 'To be continued..',
-      description:
-        '추가로 진행된 프로젝트들 추후 업데이트 예정입니다.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: '',
-    },
-    {
-      title: 'To be continued..',
-      description:
-        '추가로 진행된 프로젝트들 추후 업데이트 예정입니다.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: '',
+      link: 'https://drive.google.com/file/d/1jK0qMudTM7PHuFdeJlqF-TkCf5m4xeCs/view?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
