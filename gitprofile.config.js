@@ -100,7 +100,7 @@ const config = {
       description:
         '성균관대학교에서 수강한 인공지능융합전공 및 소프트웨어학과 강의들',
       imageUrl: 'https://www.skku.edu/_res/skku/img/skku_s.png',
-      link: './datas/lectures.pdf',
+      link: './datas/lectures.html',
     },
     {
       title: 'DiSuO',
